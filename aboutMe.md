@@ -9,4 +9,4 @@ At first, I had barely any idea what cybersecurity even meant (and truthfully, I
 
 To keep learning and stay hands-on, I started homelabbing—setting up services on my own equipment at home to serve real purposes for me and my family. I love working in the terminal. It’s where I feel focused and in control. Lately, I’ve been finding myself at a bit of a crossroads: I’m passionate about System Administration, but I’m also fascinated by how systems break and what happens when they do.
 
-Either way, I know I’m in the right place—and I’m just getting started.
+Either way, I know I’m in the right place—and hungry for the right opportunity. 
